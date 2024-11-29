@@ -1,7 +1,7 @@
 ## ok
 
 <!--
-![image](https://github.com/user-attachments/assets/2881782f-df30-4d0d-95dc-b709f9eedc8e)
+
 
 
 Here are some ideas to get you started:
